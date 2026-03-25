@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=DELTA-45-G&color=blue)
 # 💫 About Me:
 🎓 I’m currently pursuing<br>Bachelor of Engineering in Electronics and Communication Engineering (ECE).<br><br>🤝 I’m looking to collaborate on<br>Projects related to IoT, Embedded Systems, and Flutter app development.<br><br>🆘 I’m looking for help with<br>Improving real-time data processing, prediction algorithms, and hardware optimization.<br><br>🌱 I’m currently learning<br>Machine Learning basics, Flutter app development, and advanced problem-solving (DSA).<br><br>💬 Ask me about<br>Python, Data Structures & Algorithms, Embedded Systems, and Flutter projects.<br><br>⚡ Fun fact<br>I enjoy solving coding problems and turning real-world problems into practical tech solutions 🚀
 
